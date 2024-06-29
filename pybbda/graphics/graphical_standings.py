@@ -59,7 +59,7 @@ adjust_text = {
     "avoid_text": True,
     "avoid_points": False,
     "avoid_self": False,
-    # "arrowprops": {"arrowstyle": "-", "color": "k", "lw": 0.25},
+    "arrowprops": {"arrowstyle": "-", "color": "k", "lw": 0.25},
 }
 
 
